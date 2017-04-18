@@ -2,10 +2,24 @@
   background-color: orange;
 }
 
+.smaller-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 body {
   font-family: sans-serif;
 }
 
-a {
+.smallest-text {
+  font-size: 12px;
+  color: brown;
+}
+
+.white-text {
   color: white;
+}
+
+footer {
+  font-size: 10px;
 }
